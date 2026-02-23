@@ -6,7 +6,7 @@
 - 🛠️ Proficient in working with relational and NoSQL databases like PostgreSQL, Oracle, MySQL, and MongoDB.
 - 🌱 I’m currently learning advanced cloud architectures and container orchestration with Kubernetes.
 - 💞️ I’m looking to collaborate on open-source projects related to Java microservices, cloud computing, and DevOps automation.
-- 📫 How to reach me: [karrepraveen.de@gmail.com](mailto:karrepraveen.de@gmail.com)
+- 📫 How to reach me: [karre.tech@gmail.com](mailto:karre.tech@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy automating repetitive tasks to save time and focus on innovative problem-solving.
 
